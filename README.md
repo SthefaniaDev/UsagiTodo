@@ -70,11 +70,10 @@ npm start
 
 ## Project Preview
 
-Add a screenshot of the application here.
 
-```markdown
+
 ![UsagiTODO Preview](./assets/usagitodo.png)
-```
+
 
 ## Purpose
 
